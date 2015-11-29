@@ -1,0 +1,6 @@
+*.tlog
+*.exe
+*.opensdf
+*.pdb
+Debug\
+testCi\testCi\Debug\
